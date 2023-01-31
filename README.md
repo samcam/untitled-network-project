@@ -1,4 +1,4 @@
-Untitled - Creating the future of connection management.
+Untitled - Creating the future of connection billing & management.
 
 We're a little non-profit building open-source software for connection makers.
 
